@@ -10,4 +10,4 @@ Fotbal je jedním z nejsledovanějších sportů na světě.
 - Liga mistrů UEFA
 - Mistrovství světa
 - La Liga
-![Fotbalový stadion](stadion.webp)
+![Fotbalový stadion](images/stadion.webp)
