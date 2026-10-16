@@ -1,1 +1,3 @@
-
+Fotbal hrají dvě mužstva.
+Každé mužstvo má na hřišti obvykle 11 hráčů.
+Cílem hry je vstřelit více gólů než soupeř.
