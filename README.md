@@ -13,3 +13,5 @@ Fotbal je jedním z nejsledovanějších sportů na světě.
   
 ![Fotbalový stadion](images/stadion.webp)
 [Oficiální stránky UEFA](https://www.uefa.com/)
+Fotbal je **týmový sport** a vyžaduje
+*rychlost, techniku a spolupráci*.
