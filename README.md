@@ -17,3 +17,8 @@ Fotbal je jedním z nejsledovanějších sportů na světě.
 
 Fotbal je **týmový sport** a vyžaduje
 *rychlost, techniku a spolupráci*.
+## Shrnutí
+
+Fotbal je sport, který spojuje lidi po celém světě.
+Tento projekt představuje jeho pravidla, soutěže
+a atmosféru na stadionech.
